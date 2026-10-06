@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="../assets/logo-horizontal-color.svg" alt="adding" width="320" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/addinginc/.github/raw/main/assets/logo-horizontal-dark.svg" />
+    <img src="https://github.com/addinginc/.github/raw/main/assets/logo-horizontal-color.svg" alt="adding" width="320" />
+  </picture>
 </p>
 
 <p align="center">
